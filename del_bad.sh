@@ -1,0 +1,12 @@
+rm dataset/prepped/y2020_m02_d13.pt_data
+rm dataset/prepped/y2020_m02_d21.pt_data
+rm dataset/prepped/y2020_m03_d03.pt_data
+rm dataset/prepped/y2020_m03_d12.pt_data
+rm dataset/prepped/y2020_m05_d09.pt_data
+rm dataset/prepped/y2020_m05_d17.pt_data
+rm dataset/prepped/y2020_m06_d01.pt_data
+rm dataset/prepped/y2020_m07_d10.pt_data
+rm dataset/prepped/y2020_m07_d25.pt_data
+rm dataset/prepped/y2020_m08_d04.pt_data
+rm dataset/prepped/y2020_m12_d08.pt_data
+rm dataset/prepped/y2021_m08_d09.pt_data
