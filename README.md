@@ -18,7 +18,7 @@ Assuming you are familiar with Perceiver/GQA/Transformer-based models, you proba
 ├── del_bad.sh              # Hacky script to delete days with missing data
 ├── downloader.py           # Download datasets
 ├── model
-│   ├── \_\_init\_\_.py
+│   ├── __init__.py
 │   ├── attention.py        # Implements GQA
 │   ├── blocks.py           # GQA blocks
 │   ├── conv.py             # Conv blocks for image frontends
